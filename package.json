@@ -67,7 +67,7 @@
     "react-native-typescript-transformer": "^1.2.13",
     "react-test-renderer": "16.9.0",
     "regenerator-runtime": "^0.13.7",
-    "ts-jest": "^24.1.0",
+    "ts-jest": "^24.3.0",
     "tslint": "^5.20.1",
     "tslint-config-airbnb": "^5.11.2",
     "typescript": "^3.6.3"
